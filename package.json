@@ -1,0 +1,12 @@
+{
+  "name": "uisystem",
+  "version": "1.0.0",
+  "displayName": "UI System",
+  "description": "A reusable UI system for Unity that provides a modular menu architecture.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Nicolas Brueckner",
+    "email": "nicolas.brueckner.work@gmail.com",
+    "url": "nicolasbrueckner.dev"
+  }
+}
